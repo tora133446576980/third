@@ -1,0 +1,26 @@
+#q{
+    border-bottom: 1px solid grey; 
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+#w{
+    border-bottom: 1px solid grey; 
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+#e{
+    border-bottom: 1px solid grey; 
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+#a{
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 200px;
+    height: 30px;
+    font-size: 25px;
+}
